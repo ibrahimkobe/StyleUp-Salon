@@ -76,6 +76,6 @@ As part of the software engineering process, comprehensive documentation was gen
 ## 👨‍💻 Author
 
 **Ibrahim Abu Kobe**
-* Software Engineering Student at Al Hussein Technical University (HTU)
+* Cybersecurity Student at Al Hussein Technical University (HTU)
 * GitHub: [@Ibrahimkobe](https://github.com/ibrahimkobe)
 * LinkedIn: [Ibrahim Abu Kobe](https://www.linkedin.com/in/ibrahim-abukobe/)
