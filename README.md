@@ -9,23 +9,24 @@ StyleUp is a modern, data-driven salon management application designed to digiti
 ## 🚀 Live Demo
 **[Experience the Live App Here](https://previewer.adalo.com/9133db7d-b1b9-43dd-90db-7a6292079ea2?target=818468a1bfad492599706dafa106d579&params=%7B%7D)**
 
-### App Previews
-<p align="center">
 
 ### App Previews
 
 **Welcome Screen**
+
 ![Welcome Screen](Welcome.png)
 
 **Login Screen**
+
 ![Login Screen](Login.png)
 
-**Service Menu**
-![Service Menu](Service.png)
+**Profiles & Admin Dashboard**
 
-**Profile & Admin Dashboard**
-![Admin Dashboard](Profile.png)
-  
+![Profiles & Admin](Profile.png)
+
+**Services**
+
+![Services](Service.png)
 </p>
 
 ---
@@ -76,5 +77,5 @@ As part of the software engineering process, comprehensive documentation was gen
 
 **Ibrahim Abu Kobe**
 * Software Engineering Student at Al Hussein Technical University (HTU)
-* GitHub: [@YourGitHubUsername](https://github.com/ibrahimkobe)
-* LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/ibrahim-abukobe/)
+* GitHub: [@Ibrahimkobe](https://github.com/ibrahimkobe)
+* LinkedIn: [Ibrahim Abu Kobe](https://www.linkedin.com/in/ibrahim-abukobe/)
