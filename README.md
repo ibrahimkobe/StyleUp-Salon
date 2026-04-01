@@ -11,10 +11,10 @@ StyleUp is a modern, data-driven salon management application designed to digiti
 
 ### App Previews
 <p align="center">
-  <img src="[Welcome.png]" width="200" alt="Welcome Screen">
-  <img src="[Login.png]" width="200" alt="Login Page">
-  <img src="[Profile.png]" width="200" alt="Profiles & Admin Dashboard">
-  <img src="[Service.png]" width="200" alt="Services">
+  <img src="Welcome.png" width="200" alt="Welcome Screen">
+  <img src="Login.png" width="200" alt="Login Page">
+  <img src="Profile.png" width="200" alt="Profiles & Admin Dashboard">
+  <img src="Service.png" width="200" alt="Services">
 </p>
 
 ---
